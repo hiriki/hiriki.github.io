@@ -3198,7 +3198,7 @@ if (localStorage.getItem("blogbg") != undefined) {
     --default-bg: url(https://picbed.sherry.pub/day.jpeg);
     --darkmode-bg:url(https://picbed.sherry.pub/night1.jpeg);
     --mobileday-bg: url(https://picbed.sherry.pub/m-day.jpeg);
-    --mobilenight-bg: url(https://picbed.sherry.pub/night3.jpeg);
+    --mobilenight-bg: url(https://picbed.sherry.pub/night1.jpeg);
   }`;
 }
 // 切换背景主函数
