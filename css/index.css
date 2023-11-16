@@ -7655,7 +7655,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://picbed.sherry.pub/avatar2.jpeg)
+  background: url(https://blog-1314261683.cos.ap-chengdu.myqcloud.com/public/avatar2.png)
     no-repeat center center;
   background-size: cover;
 }
