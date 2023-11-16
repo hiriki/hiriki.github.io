@@ -191,7 +191,7 @@ function showWelcome() {
                 case "澳门特别行政区":
                     posdesc = "性感荷官，在线发牌。";
                     break;
-                case "重庆":
+                case "重庆市":
                     posdesc = "行千里，致广大。";
                     break;
                 default:
