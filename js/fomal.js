@@ -262,7 +262,7 @@ function showWelcome() {
           posdesc = "性感荷官，在线发牌。";
           break;
         case "重庆市":
-          posdesc = "行千里，致广大。";
+          posdesc = "高德地图:已到达重庆，下面交给百度地图导航。";
           break;
         default:
           posdesc = "带我去你的城市逛逛吧！";
