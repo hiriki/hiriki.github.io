@@ -58,9 +58,9 @@
     
     
     
-    <category term="zookeeper" scheme="https://www.sherry.pub/tags/zookeeper/"/>
-    
     <category term="docker" scheme="https://www.sherry.pub/tags/docker/"/>
+    
+    <category term="zookeeper" scheme="https://www.sherry.pub/tags/zookeeper/"/>
     
   </entry>
   
@@ -79,9 +79,9 @@
     
     
     
-    <category term="docker" scheme="https://www.sherry.pub/tags/docker/"/>
-    
     <category term="etcd" scheme="https://www.sherry.pub/tags/etcd/"/>
+    
+    <category term="docker" scheme="https://www.sherry.pub/tags/docker/"/>
     
   </entry>
   
